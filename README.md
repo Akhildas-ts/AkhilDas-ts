@@ -1,5 +1,6 @@
 <h1 align="center">Go or wot  😮‍💨</h1>
-  <img src="https://github.com/Akhildas-ts/AkhilDas-ts/assets/141845923/b17b3ef4-cb12-4c51-a255-d7e1f3907548" alt="Go Image" style="max-width: 50%; height: auto;">
+  <img src="https://github.com/Akhildas-ts/AkhilDas-ts/assets/141845923/b17b3ef4-cb12-4c51-a255-d7e1f3907548" alt="Go Image" style="max-width: 100px; max-height: 100px;">
+
 
 
 - 💬 Ask me about **Go**
