@@ -3,7 +3,8 @@
 
 - 💬 Ask me about **Go**
 
-- 📫 How to reach me **akhilpic1@gmail.com**
+- 📫 How to reach me *![go image](https://github.com/Akhildas-ts/AkhilDas-ts/assets/141845923/b17b3ef4-cb12-4c51-a255-d7e1f3907548)
+*akhilpic1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
