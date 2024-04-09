@@ -1,8 +1,8 @@
 <h1 align="center">GO OR WOT 😮‍💨</h1>
-- 💬 Ask me about **Go**
+- 💬 Ask me about Go
 
-<p align="right">
-  <img src="https://github.com/Akhildas-ts/AkhilDas-ts/assets/141845923/cdb98674-d26f-4054-badc-c51d0cfe4463" alt="go image" width="100">
+<p align="left">
+  <img src="https://github.com/Akhildas-ts/AkhilDas-ts/assets/141845923/cdb98674-d26f-4054-badc-c51d0cfe4463" alt="go image" width="200">
 </p>
 - 📫 How to reach me **akhilpic1@gmail.com**
 
