@@ -1,6 +1,7 @@
-<h1 align="center">GO OR WOT</h1>
-- 💬 Ask me about **Go**![GolangGIF (2)](https://github.com/Akhildas-ts/AkhilDas-ts/assets/141845923/2a35e887-a1d4-420d-b9f0-d72bf1264638)
-![GolangGIF](https://github.com/Akhildas-ts/AkhilDas-ts/assets/141845923/089d3983-d80a-4629-a497-cbd5fcafc130)
+<h1 align="center">GO OR WOT 😮‍💨</h1>
+- 💬 Ask me about **Go**
+
+<img src="https://github.com/Akhildas-ts/AkhilDas-ts/assets/141845923/cdb98674-d26f-4054-badc-c51d0cfe4463" alt="go image" width="100">
 
 
 - 📫 How to reach me **akhilpic1@gmail.com**
