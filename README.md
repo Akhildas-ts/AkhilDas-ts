@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akhil Das, a Backend developer proficient in Go.</h1>
-<h3 align="center">I am a skilled backend developer with a focus on creating efficient and high-performance applications using the Go programming language. I have a passion for designing and implementing scalable systems and enjoy working on projects that challenge me to grow and learn. </h3>
+<h1 align="center">Go or wot  😮‍💨</h1>
+
 
 - 💬 Ask me about **Go**
 
